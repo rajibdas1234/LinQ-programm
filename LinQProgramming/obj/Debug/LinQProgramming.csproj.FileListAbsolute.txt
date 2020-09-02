@@ -1,0 +1,2 @@
+C:\Users\Rajib\Source\Repos\LinQProgramming\LinQProgramming\obj\Debug\LinQProgramming.csprojAssemblyReference.cache
+C:\Users\Rajib\Source\Repos\LinQProgramming\LinQProgramming\obj\Debug\LinQProgramming.csproj.CoreCompileInputs.cache
